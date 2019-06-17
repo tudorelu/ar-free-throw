@@ -1,14 +1,6 @@
-# AR Foundation Samples
-Example projects that use *AR Foundation* and demonstrate its functionality with sample assets and components.
+# Code for Tudorial 3 (Make an Augmented Reality Game in Unity)
 
-Compatible with Unity 2019.1 and later.
+This code is updated from the ARFoundation code [samples](https://github.com/Unity-Technologies/arfoundation-samples/tree/7f33eca8720ce7ee8e52fc6494810e2a15c93929)
+[Video Link](https://youtu.be/buZAEnqphNI)
 
-## Instructions for installing AR Foundation
-
-1. Download the latest version of Unity 2019.1 or later.
-
-2. Open Unity, and load the project at the root of the *arfoundation-samples* repository.
-
-3. Open your choice of sample scene.
-
-4. See the [AR Foundation Documentation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@2.0) for usage instructions and more information.
+Enjoy!
